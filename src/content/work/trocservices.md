@@ -4,7 +4,7 @@ publishDate: 2023-01-02 00:00:00
 img: /assets/projects/troc-service.png
 img_alt: Picture of Troc'Services website home page
 description: |
-  Site communautaire déchanges de services entre particuliers.
+  Site communautaire d'échanges de services entre particuliers.
 tags:
   - React
   - Symfony
