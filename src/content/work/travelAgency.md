@@ -4,7 +4,7 @@ publishDate: 2022-09-02 00:00:00
 img: /assets/projects/TravelAgency.png
 img_alt: Picture of Travel Agency website home page
 description: |
-  Page d'accueil d'un site vitrine d'une agence de voyage.
+  Page d'accueil d'un site vitrine d'une agence de voyages.
 tags:
   - HTML
   - CSS
@@ -13,7 +13,7 @@ tags:
 ## Travel Agency
 
 Disponible ici 👉 <a href="https://maximelefranc.github.io/Travel-Agency/">Travel Agency</a>
->   Intégration HTML / CSS de la page d'accueil pour le site vitrine d'une agence de voyage.
+>   Intégration HTML / CSS de la page d'accueil pour le site vitrine d'une agence de voyages.
 
 
 ### Technologies utilisées:

@@ -4,7 +4,7 @@ publishDate: 2023-01-15 00:00:00
 img: /assets/projects/oflix.png
 img_alt: Picture of Oflix website home page
 description: |
-  Répertorie films et series.
+  Répertorie films et séries.
 tags:
   - Symfony
   - MySQL
@@ -14,7 +14,7 @@ tags:
 ## O'Flix
 
 Repository disponible ici 👉 <a href="https://github.com/MaximeLefranc/project-symfony-oflix">O'Flix</a>
-> Site qui répertorie des films et series.
+> Site qui répertorie des films et séries.
 
 ### Technologies utilisées:
 
@@ -24,7 +24,7 @@ Repository disponible ici 👉 <a href="https://github.com/MaximeLefranc/project
 
 #### Fonctionnalités:
 ##### Utilisateurs:
-- Recherche de films ou series via la barre de recherche
+- Recherche de films ou seriés via la barre de recherche
 - Trier les films ou séries par genres.
 - Changer le thème (Netflix ou Oflix)
 ##### Utilisateurs connectés:

@@ -15,7 +15,7 @@ Disponible ici 👉 <a href="https://terminal-cv-react.vercel.app/">DevBack CV</
 >   Petit clin d'oeil 😉 pour les backeux et/ou anglophones qui passent sur mon portfolio.
 
 
-Simule un terminal avec une liste de commande spécifiques.
+Simule un terminal avec une liste de commandes spécifiques.
 Contient mon parcours professionnel et mes compétences en Français et en Anglais ainsi qu'un petit "Easter Egg" 😁.
 
 ### Technologies utilisées:
