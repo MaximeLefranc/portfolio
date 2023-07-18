@@ -1,7 +1,7 @@
 ---
 title: Portfolio Next.js
 publishDate: 2022-12-01 00:00:00
-img: /assets/projects/next.js.png
+img: /assets/projects/next.js.webp
 img_alt: Picture of portfolio Next.js home page
 description: |
   Portfolio en Next.js afin de découvrir le framework et MongoDB

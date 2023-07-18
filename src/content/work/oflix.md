@@ -1,7 +1,7 @@
 ---
 title: Oflix
 publishDate: 2023-01-15 00:00:00
-img: /assets/projects/oflix.png
+img: /assets/projects/oflix.webp
 img_alt: Picture of Oflix website home page
 description: |
   Répertorie films et séries.

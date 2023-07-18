@@ -1,7 +1,7 @@
 ---
 title: Snake
 publishDate: 2022-08-02 00:00:00
-img: /assets/projects/snake.png
+img: /assets/projects/snake.webp
 img_alt: Picture of snake game website
 description: |
   L'incontournable "Snake" codé en JavaScript.

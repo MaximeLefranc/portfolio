@@ -1,7 +1,7 @@
 ---
 title: DevBack CV
 publishDate: 2022-10-02 00:00:00
-img: /assets/projects/Terminal-cv.png
+img: /assets/projects/Terminal-cv.webp
 img_alt: Picture of DevBack CV website home page
 description: |
   Petit clin d'oeil pour les backeux et/ou anglophones qui passent sur mon portfolio.

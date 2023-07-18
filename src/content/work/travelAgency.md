@@ -1,7 +1,7 @@
 ---
 title: Travel Agency
 publishDate: 2022-09-02 00:00:00
-img: /assets/projects/TravelAgency.png
+img: /assets/projects/TravelAgency.webp
 img_alt: Picture of Travel Agency website home page
 description: |
   Page d'accueil d'un site vitrine d'une agence de voyages.
