@@ -12,8 +12,8 @@ tags:
   - Expo
 ---
 
-![Portfolio image Pixels app](../../../public/assets/projects/Pixels2.webp "La page Portfolio")
-![Selection navigation image Pixels app](../../../public/assets/projects/Pixels3.webp "L'onglet 'Sélection'")
+![Portfolio image Pixels app](/assets/projects/Pixels_two.webp "La page Portfolio")
+![Selection navigation image Pixels app](/assets/projects/Pixels_three.webp "L'onglet 'Sélection'")
 
 ## Pixels
 
