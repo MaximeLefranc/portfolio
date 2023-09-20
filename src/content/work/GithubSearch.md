@@ -1,6 +1,6 @@
 ---
 title: Git-Hub Search
-publishDate: 2022-11-01 00:00:00
+publishDate: 2023-01-01 00:00:00
 img: /assets/projects/react_github.webp
 img_alt: Picture of Git-Hub Search website home page
 description: |

@@ -1,6 +1,6 @@
 ---
 title: Portfolio Next.js
-publishDate: 2022-12-01 00:00:00
+publishDate: 2021-12-01 00:00:00
 img: /assets/projects/next.js.webp
 img_alt: Picture of portfolio Next.js home page
 description: |

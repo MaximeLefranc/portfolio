@@ -1,6 +1,6 @@
 ---
 title: Troc'Services
-publishDate: 2023-01-02 00:00:00
+publishDate: 2023-03-01 00:00:00
 img: /assets/projects/troc-service.webp
 img_alt: Picture of Troc'Services website home page
 description: |
