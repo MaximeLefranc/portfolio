@@ -14,7 +14,9 @@ tags:
 
 ## Troc'Services
 
-Disponible ici 👉 <a href="https://trocservices.fr">Troc'Services</a>
+Le repository côté Front est disponible ici 👉 <a href="https://github.com/MaximeLefranc/troc-services-front">Repository Front</a>  
+Le repository côté Back est disponible ici 👉 <a href="https://github.com/MaximeLefranc/troc-services-back">Repository Back</a>  
+  
 > Site communautaire déchanges de services entre particuliers.
 
 
